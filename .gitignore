@@ -16,6 +16,10 @@ gen/
 .gradle/
 build/
 /*/build/
+captures
+
+.idea/workspace.xml
+.idea/libraries
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -25,3 +29,6 @@ proguard/
 
 # Log Files
 *.log
+
+# Mac OS
+.DS_Store
